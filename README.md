@@ -11,7 +11,7 @@ Planilha desenvolvida em Excel para auxiliar investidores iniciantes e intermedi
 
 ## 🛠️ Como usar
 
-1.  **Baixe o arquivo** `.xlsx` disponível neste repositório.
+1.  **Baixe a planilha clicando aqui: **[⬇️ Download Fundos_imobiliarios.xlsx](Fundos_imobiliarios.xlsx)**
 2.  **Preencha a seção "Configurações":**
     * Insira seu *Salário* atual.
     * Defina a *Taxa de Rendimento* esperada para a carteira.
